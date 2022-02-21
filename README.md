@@ -17,12 +17,26 @@
 
 layer7 - layer4
  $ 0: სახლი[ HOME ] 
+ 
+ 
  $ 1: Proxy შეტევა[ DDoS ] 
- $ 2: Socks შეტევა[ DDoS ]                                
- $ 3: JS-Normal[ Home ]                                    
- $ 4: Raw-DoS[ Home ]                                    
+ 
+ 
+ $ 2: Socks შეტევა[ DDoS ]   
+ 
+ 
+ $ 3: JS-Normal[ Home ]      
+ 
+ 
+ $ 4: Raw-DoS[ Home ]            
+ 
+ 
  $ 5: UDP გაფლუდვა[ Home ] 
+ 
+ 
  $ 6: TCP-SYN Flood[ გაფლუდვა ]
+
+
 
 
 
