@@ -15,7 +15,7 @@
             
 # Methods/მეთოდები
 
-[ Layer 7 ][ Layer 4 ]
+layer7 - layer4
  $ 0: სახლი[ HOME ] 
  $ 1: Proxy შეტევა[ DDoS ] 
  $ 2: Socks შეტევა[ DDoS ]                                
@@ -29,8 +29,7 @@
 
 
 
-
-
+.
 
 
 # Activate/აქტივაცია
