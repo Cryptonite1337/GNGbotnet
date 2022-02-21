@@ -17,11 +17,11 @@
 # Methods/მეთოდები
 
 [+]=====[ Layer 7 ]=====[+]=======[ Layer 4 ]=======[+]
- # 0: სახლი       [ HOME ] # 5: UDP გაფლუდვა     [ Home ] #
- # 1: Proxy შეტევა [ DDoS ] # 6: TCP-SYN Flood [ გაფლუდვა ] #
- # 2: Socks შეტევა [ DDoS ] #                           #
- # 3: JS-Normal [ Home ] #                           #
- # 4: Raw-DoS   [ Home ] #                           #
+ $ 0: სახლი       [ HOME ] # 5: UDP გაფლუდვა     [ Home ] #
+ $ 1: Proxy შეტევა [ DDoS ] # 6: TCP-SYN Flood [ გაფლუდვა ] #
+ $ 2: Socks შეტევა [ DDoS ] #                           #
+ $ 3: JS-Normal [ Home ] #                           #
+ $ 4: Raw-DoS   [ Home ] #                           #
 [+]=================================================[+]
 
 # Activate/აქტივაცია
